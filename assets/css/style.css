@@ -188,6 +188,7 @@ footer{
     font-size: 1rem;
     font-family: Roboto;
     padding: 150px 580px 0;
+    width: 100vw;
 }
 
 .website span {
