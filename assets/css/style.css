@@ -85,6 +85,9 @@ header, main {
     padding-bottom: 5vh ;
 }
 
+div article p span{
+    background-color: #000;
+}
 
 div article{
     padding: 30vh 10vw 0 10vw;
@@ -123,10 +126,9 @@ div article{
 }
 
 main section img {
-    /* background-image: url(../image/see.png) url(../image/kid.png); */
     width: 1440px;
-    
 }
+
 .backgroundImage {
 height: 100vh;
 background-image: url("../image/kid.png"), url("../image/see.png");
